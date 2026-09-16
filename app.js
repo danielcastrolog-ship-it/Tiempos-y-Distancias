@@ -1,6 +1,6 @@
-// Cargar centros desde GitHub
 async function cargarCentros() {
   const url = "https://danielcastrolog-ship-it.github.io/Tiempos-y-Distancias/centros.json";
+
   const centros = await fetch(url).then(r => r.json());
 
   const origenSelect = document.getElementById("origen");
@@ -18,22 +18,18 @@ async function cargarCentros() {
     destinoSelect.appendChild(option2);
   });
 }
-
-// Llamar a la API en Cloudflare Workers
 async function calcular() {
   const origen = document.getElementById("origen").value;
   const destino = document.getElementById("destino").value;
   const velocidad = document.getElementById("velocidad").value;
 
-  const url = "https://tiempos-y-distancias.danielcastrolog.workers.dev?origen=" + origen + "&destino=" + destino + "&velocidad=" + velocidad;
-
+  const url =
+    `https://tiempos-y-distancias.danielcastrolog.workers.dev?origen=${origen}&destino=${destino}&velocidad=${velocidad}`;
 
   const data = await fetch(url).then(r => r.json());
 
   mostrarResultado(data);
 }
-
-// Mostrar resultado
 function mostrarResultado(data) {
   const div = document.getElementById("resultado");
 
@@ -51,6 +47,3 @@ function mostrarResultado(data) {
     <p><strong>Tiempo estimado:</strong> ${data.tiempo_horas.toFixed(2)} horas</p>
   `;
 }
-
-// Inicializar
-cargarCentros();
