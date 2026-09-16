@@ -1,14 +1,14 @@
 [
-  {"id":"M-Detroit":"cliente":"Detroit S.A.":Centro":"Muelle Detroit"}
-  {"id":"GM-Quillaipe":"cliente":"Granja Marina Tornagaleones S.A.":Centro":"Quillape"}
-  {"id":"SAY-Milagro":"cliente":"Salmones Aysen":Centro":"Milagro"}
-  {"id":"SAY-Raliguao":"cliente":"Salmones Aysen":Centro":"Raliguao"}
-  {"id":"SAY-Puelche":"cliente":"Salmones Aysen":Centro":"Puelche"}
-  {"id":"CB-Punta Iglesias":"cliente":"Caleta bay mar S.P.A.":Centro":"Punta iglesias"}
-  {"id":"CB-Punta Iglesias 2":"cliente":"Caleta bay mar S.P.A.":Centro":"Punta Iglesias 2"}
-  {"id":"CB-Farellones":"cliente":"Caleta bay mar S.P.A.":Centro":"Farellones"}
-  {"id":"CQ-Chidhuapi 4":"cliente":"Cermaq Chile S.A.":Centro":"Chidhuapi 4"}
-  {"id":"VQ-Tubildad":"cliente":"Productos del mar ventisqueros S.A.":Centro":"Tubildad"}
-  {"id":"CQ-Calen 2":"cliente":"Cermaq Chile S.A.":Centro":"Calen 2"}
+  {"id":"M-Detroit":"cliente":"Detroit S.A.":Centro":"Muelle Detroit"},
+  {"id":"GM-Quillaipe":"cliente":"Granja Marina Tornagaleones S.A.":Centro":"Quillape"},
+  {"id":"SAY-Milagro":"cliente":"Salmones Aysen":Centro":"Milagro"},
+  {"id":"SAY-Raliguao":"cliente":"Salmones Aysen":Centro":"Raliguao"},
+  {"id":"SAY-Puelche":"cliente":"Salmones Aysen":Centro":"Puelche"},
+  {"id":"CB-Punta Iglesias":"cliente":"Caleta bay mar S.P.A.":Centro":"Punta iglesias"},
+  {"id":"CB-Punta Iglesias 2":"cliente":"Caleta bay mar S.P.A.":Centro":"Punta Iglesias 2"},
+  {"id":"CB-Farellones":"cliente":"Caleta bay mar S.P.A.":Centro":"Farellones"},
+  {"id":"CQ-Chidhuapi 4":"cliente":"Cermaq Chile S.A.":Centro":"Chidhuapi 4"},
+  {"id":"VQ-Tubildad":"cliente":"Productos del mar ventisqueros S.A.":Centro":"Tubildad"},
+  {"id":"CQ-Calen 2":"cliente":"Cermaq Chile S.A.":Centro":"Calen 2"},
   {"id":"CQ-Tubildad":"cliente":"Cermaq Chile S.A.":Centro":"Tubildad"}
 ]
