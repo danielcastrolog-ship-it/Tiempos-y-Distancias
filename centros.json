@@ -2,60 +2,60 @@
   {
     "id":"M-Detroit",
     "cliente":"Detroit S.A.",
-    "Centro":"Muelle Detroit"
+    "centro":"Muelle Detroit"
   },
   {"id":"GM-Quillaipe",
     "cliente":"Granja Marina Tornagaleones S.A.",
-    "Centro":"Quillape"
+    "centro":"Quillape"
   },
   {
     "id":"SAY-Milagro",
     "cliente":"Salmones Aysen",
-    "Centro":"Milagro"
+    "centro":"Milagro"
   },
   {
     "id":"SAY-Raliguao",
     "cliente":"Salmones Aysen",
-    "Centro":"Raliguao"
+    "centro":"Raliguao"
   },
   {
     "id":"SAY-Puelche",
     "cliente":"Salmones Aysen",
-    "Centro":"Puelche"
+    "centro":"Puelche"
   },
   {
     "id":"CB-Punta Iglesias",
     "cliente":"Caleta bay mar S.P.A.",
-    "Centro":"Punta iglesias"
+    "centro":"Punta iglesias"
   },
   {
     "id":"CB-Punta Iglesias 2",
     "cliente":"Caleta bay mar S.P.A.",
-    "Centro":"Punta Iglesias 2"
+    "centro":"Punta Iglesias 2"
   },
   {
     "id":"CB-Farellones",
     "cliente":"Caleta bay mar S.P.A.",
-    "Centro":"Farellones"
+    "centro":"Farellones"
   },
   {
     "id":"CQ-Chidhuapi 4",
     "cliente":"Cermaq Chile S.A.",
-    "Centro":"Chidhuapi 4"
+    "centro":"Chidhuapi 4"
   },
   {
     "id":"VQ-Tubildad",
     "cliente":"Productos del mar ventisqueros S.A.",
-    "Centro":"Tubildad"
+    "centro":"Tubildad"
   },
   {
     "id":"CQ-Calen 2",
     "cliente":"Cermaq Chile S.A.",
-    "Centro":"Calen 2"
+    "centro":"Calen 2"
   },
   {
     "id":"CQ-Tubildad",
     "cliente":"Cermaq Chile S.A.",
-    "Centro":"Tubildad"
-  },
+    "centro":"Tubildad"
+  }
 ]
