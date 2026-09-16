@@ -1,4 +1,32 @@
 [
-  { "origen":"M-Detroit","destino":"GM-Quillaipe", "distancia_mn":13.70}
-  
+  { 
+    "origen":"M-Detroit",
+    "destino":"GM-Quillaipe", 
+    "distancia_mn":13.70
+  },
+  { 
+    "origen":"M-Detroit",
+    "destino":"SAY-Milagro", 
+    "distancia_mn":13.70
+  },
+  { 
+    "origen":"M-Detroit",
+    "destino":"SAY-Raliguao", 
+    "distancia_mn":13.70
+  },
+  { 
+    "origen":"M-Detroit",
+    "destino":"SAY-Puelche", 
+    "distancia_mn":13.70
+  },
+  { 
+    "origen":"M-Detroit",
+    "destino":"CB-Punta iglesias", 
+    "distancia_mn":13.70
+  },
+  { 
+    "origen":"M-Detroit",
+    "destino":"CB-Punta iglesias 2", 
+    "distancia_mn":13.70
+  },
 ]
