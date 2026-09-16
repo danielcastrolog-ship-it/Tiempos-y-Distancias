@@ -7,26 +7,26 @@
   { 
     "origen":"M-Detroit",
     "destino":"SAY-Milagro", 
-    "distancia_mn":13.70
+    "distancia_mn":20.89
   },
   { 
     "origen":"M-Detroit",
     "destino":"SAY-Raliguao", 
-    "distancia_mn":13.70
+    "distancia_mn":11.29
   },
   { 
     "origen":"M-Detroit",
     "destino":"SAY-Puelche", 
-    "distancia_mn":13.70
+    "distancia_mn":21.19
   },
   { 
     "origen":"M-Detroit",
     "destino":"CB-Punta iglesias", 
-    "distancia_mn":13.70
+    "distancia_mn":32.60
   },
   { 
     "origen":"M-Detroit",
     "destino":"CB-Punta iglesias 2", 
-    "distancia_mn":13.70
+    "distancia_mn":34.15
   },
 ]
