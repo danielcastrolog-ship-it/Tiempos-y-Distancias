@@ -25,7 +25,8 @@ async function calcular() {
   const destino = document.getElementById("destino").value;
   const velocidad = document.getElementById("velocidad").value;
 
-  const url = `TU_WORKER_URL/ruta?origen=${origen}&destino=${destino}&velocidad=${velocidad}`;
+  const url = "https://tiempos-y-distancias.danielcastrolog.workers.dev?origen=" + origen + "&destino=" + destino + "&velocidad=" + velocidad;
+
 
   const data = await fetch(url).then(r => r.json());
 
