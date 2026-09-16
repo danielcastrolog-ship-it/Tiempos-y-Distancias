@@ -1,6 +1,6 @@
 // Cargar centros desde GitHub
 async function cargarCentros() {
-  const url = "https://raw.githubusercontent.com/danielcastrolog-ship-it/Tiempos-y-Distancias/main/centros.json";
+  const url =https://danielcastrolog-ship-it.github.io/Tiempos-y-Distancias/;
   const centros = await fetch(url).then(r => r.json());
 
   const origenSelect = document.getElementById("origen");
